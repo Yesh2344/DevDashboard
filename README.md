@@ -44,7 +44,7 @@ DevDashboard is a comprehensive, single-file Python application designed to enha
    ```
 
 3. Update the GitHub username in the script:
-   Open `dev_dashboard.py` and replace `"your_github_username"` with your actual GitHub username.
+   Open `dev_dashboard.py` and replace `"yesh2344"` with your actual GitHub username.
 
 ## Usage
 
@@ -81,6 +81,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, feel free to reach out to me at [your-email@example.com](mailto:yeswanthsoma83@example.com).
 
 Happy coding!
